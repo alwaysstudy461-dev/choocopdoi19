@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>/san-pham</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>/truy-xuat</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/dang-ban-ai</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>/vung/long-khanh</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/vung/tan-trieu</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/vung/binh-long</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/vung/xuan-loc</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/vung/dinh-quan</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/chom-chom-troc-nhan-long-khanh</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/buoi-duong-la-cam</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/hat-dieu-rang-cui-binh-long</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/mat-ong-hoa-chom-chom-xuan-loc</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/sau-rieng-ri6-vuon-chu-ba</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/bot-ca-cao-trong-duc-dinh-quan</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/ca-phe-robusta-xuan-loc</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/tieu-den-huu-co-binh-long</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/xoai-cat-hoa-loc-dinh-quan</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+  <url><loc>/san-pham/combo-qua-bieu-ocop-dong-nai</loc><changefreq>weekly</changefreq><priority>0.85</priority></url>
+</urlset>
